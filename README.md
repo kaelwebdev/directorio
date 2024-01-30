@@ -1,4 +1,4 @@
-# Example cell phone Directory GA_RVGA
+# Example cell phone Directory Apollo + GraphQL + React
 
 ## Main Technologies
 ### Backend
